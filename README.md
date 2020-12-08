@@ -3,9 +3,11 @@
 ## 4 etapas
 
 1. Coleta de dados
+
 -- Crawler ou manual
 
 2. Pré-processamento usando a biblioteca nltk
+
 -- Remover stopwords
 -- Stemming and Lemmatization
 -- Luhn cut
