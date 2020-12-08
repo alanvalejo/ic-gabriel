@@ -1,0 +1,1 @@
+Gerar scripts para realizar o download das bases de dados do google project ou selecionar as bases de dados manualmente
