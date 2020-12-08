@@ -25,3 +25,7 @@
 -- Rede tripartida de palavras, documentos e artigos
 
 4. Análise
+
+-- Sistema
+
+-- Medidas de redes
