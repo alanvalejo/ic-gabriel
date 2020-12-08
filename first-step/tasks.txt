@@ -1,0 +1,5 @@
+Pré-processamento das bases de dados utilizando a biblioteca nltk
+
+1. Remover stopwords
+2. Stemming and Lemmatization
+3. Luhn cut
