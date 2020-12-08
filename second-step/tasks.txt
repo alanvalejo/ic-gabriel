@@ -1,0 +1,11 @@
+Usando a biblioteca igraph ou networkx criar representações das constituições usando redes
+
+As principais serão:
+
+1. Rede simples de coocorrência de palavras
+2. Rede bipartida de palavras e documentos
+
+Outras possíveis
+
+1. Rede bipartida de palavras e artigos
+2. Rede tripartida de palavras, documentos e artigos
